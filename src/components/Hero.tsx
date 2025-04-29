@@ -54,7 +54,7 @@ const Hero: React.FC = () => {
               <div className="absolute inset-0 bg-blue-600 dark:bg-blue-500 rounded-full opacity-20 blur-3xl scale-95 animate-pulse"></div>
               <div className="relative z-10 w-full h-full rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-xl">
                 <img 
-                  src="src\assets\Images\Youssef.jpeg" 
+                  src="/Youssef.jpeg" 
                   alt="Youssef Sayed"
                   className="w-full h-full object-cover"
                 />
